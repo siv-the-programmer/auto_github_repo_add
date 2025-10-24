@@ -86,5 +86,5 @@ For multiple file selection, the script can be extended to handle comma-separate
 Repository
 -
 
-This script was originally created for the Python-lab
- project to streamline file updates and GitHub commits during Python learning and experimentation.
+# This script was originally created for the Python-lab
+# project to streamline file updates and GitHub commits during Python learning and experimentation.
