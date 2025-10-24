@@ -14,6 +14,10 @@ Pulls the latest changes from the remote repository before committing.
 
 Commits the selected file with a custom message and pushes it to GitHub.
 
+Example 1
+-
+<img width="797" height="437" alt="Screenshot 2025-10-24 141448" src="https://github.com/user-attachments/assets/6f7ac523-b9ae-4fbf-86c8-5bac939452a7" />
+
 Requirements
 -
 
@@ -41,7 +45,9 @@ Run the script:
 ./git_auto_push.sh
 
 ```
-
+Example 2
+-
+<img width="865" height="705" alt="Screenshot 2025-10-24 141541" src="https://github.com/user-attachments/assets/c1aa2cb2-1369-486e-887d-6fd91f7839ba" />
 
 Follow the prompts:
 -
