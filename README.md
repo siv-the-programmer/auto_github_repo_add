@@ -1,5 +1,8 @@
 Git Auto Push Script
 ---
+
+![Shell Script](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+
 This Bash script automates the process of uploading files to GitHub by guiding you through selecting a file, entering a commit message, and pushing the changes to your repository. It is designed to simplify frequent commits and is currently used within the Python-lab
  repository.
 
